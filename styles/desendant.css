@@ -1,0 +1,15 @@
+div h1{
+  color:darkgreen ;
+  background-color: darkkhaki;
+  text-align: center ;
+}
+
+div p {
+  color: blue;
+  background-color: darkcyan;
+}
+div img{
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}

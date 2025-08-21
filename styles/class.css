@@ -1,0 +1,16 @@
+/*body{
+  background-color: lightblue;
+}
+h1{
+  color: darkgreen;
+}*/
+.first-heading{
+  color: darkblue;
+  text-align: center;
+  background-color: darkcyan;
+}
+
+.second-heading{
+  color: aliceblue;
+  background-color: darkgreen;
+}

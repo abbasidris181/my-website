@@ -1,0 +1,49 @@
+body{
+  background-color: lightblue;
+}
+
+.first-heading{
+  border: 2px solid yellow;
+  padding: 50px;
+  margin: 50px;
+}
+
+.second-heading{
+  border: 2px dotted, green;
+  padding-top: 25px;
+  margin-top: 25px;
+}
+
+.third-heading{
+  border: 2px double darkblue;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+}
+
+.fourth-heading{
+  border: 2px dashed darkred;
+  padding-right: 25px;
+}
+
+.fifth-heading{
+  border: 2px solid blue;
+}
+
+.f-p{
+  border-top: 2px solid red;
+}
+
+.s-p{
+  border-bottom: 2px dashed darkblue;
+}
+.t-p{
+  border-left: 2px dotted navajowhite;
+}
+
+.f-p{
+  border-right: 2px solid darkblue;
+}
+
+.fi-p{
+  border-top: 2px double darkcyan;
+}
