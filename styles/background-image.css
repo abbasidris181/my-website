@@ -1,0 +1,12 @@
+body{
+  background-image: url(../images/pexels.png);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.first-div{
+  background-image: url(../images/OIP.webp);
+  background-repeat: no-repeat;
+   background-size: cover;
+  background-attachment: fixed;
+}

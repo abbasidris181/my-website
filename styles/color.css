@@ -1,0 +1,19 @@
+body{
+  background-color: lightblue;
+}
+
+.first-h{
+  color: #45bbba;
+}
+
+.second-h{
+  color: darkred;
+}
+
+.third-h{
+  color: darkgoldenrod;
+}
+
+.third-p{
+  color: rgb(21, 51, 221);
+}

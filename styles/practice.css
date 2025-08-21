@@ -1,0 +1,16 @@
+body{
+  background-color: lightslategrey;
+}
+
+.heading-1{
+  border: 2px solid darkgreen;
+  color: darkblue;
+  font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+.image-1{
+  border: none;
+  border-radius: 50%;
+  align-content: center;
+}
+

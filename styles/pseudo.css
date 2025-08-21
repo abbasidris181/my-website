@@ -1,0 +1,42 @@
+body{
+  background-color: #8f899c;
+}
+
+h1{
+  color: darkgreen;
+  text-align: center;
+  font-size: 50px;
+  background-color: darkblue;
+  font-family: arial;
+}
+
+h1:hover{
+  background-color: darkgreen;
+  color: darkorchid;
+}
+e
+input:focus{
+  color: white;
+  background-color: darkgreen;
+  border: 2px dotted yellowgreen;
+}
+
+p::first-line{
+  color: darkred;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+p::first-letter{
+  color: white;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+h1:before{
+  content: url(../icons/photos.png);
+}
+
+h1::after{
+  content: url(../icons/location.png);
+}
