@@ -1,0 +1,36 @@
+body{
+  background-color: aquamarine;
+ 
+}
+
+
+.container{
+  background-color: lightblue;
+  width: 90%;
+  height: 1200px;
+  margin:  0 auto;
+}
+
+.header{
+  height: 300px;
+  width: 100%;
+  background-color: lightcoral;
+}
+
+.nav{
+  background-color: lightcyan;
+  width: 100%;
+  height: 50px;
+
+}
+.body{
+  height: 700px;
+  width: 100%;
+  background-color: lightslategray;
+}
+
+.footer{
+   height: 150px;
+   width: 100%;
+   background-color: black;
+}

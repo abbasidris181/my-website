@@ -1,0 +1,110 @@
+body{
+  background-color: rgb(214, 208, 220);
+}
+
+:root{
+  --bg-blue:rgb(74, 209, 62);
+  --text: darkcyan;
+  --kk:darkgray;
+  --fifth:  darkgreen;
+  --dkhaki: darkkhaki;
+  --dgolden:darkgoldenrod ;
+    --lshape : 0 50% 0; 
+  --oshape:  0 0 50%;
+}
+
+.first-h{
+  color: var(--bg-blue);
+  background-color: var(--text);
+}
+
+.second-h{
+  color: var(--text);
+  background-color:  var(--bg-blue);
+}
+
+.third-h{
+  color:var(--dgolden);
+  background-color: var(--kk);
+}
+
+.fourth-h{
+  color: var(--kk);
+  background-color: var(--dgolden);
+}
+
+.fifth-h{
+  color:var(--fifth);
+  background-color: var(--dkhaki);
+}
+
+.six-h{
+  color: darkkhaki;
+  background-color: var(--fifth);
+}
+
+.seven-h{
+  color: darkolivegreen;
+  background-color: var(--dkhaki);
+}
+
+.first-p{
+    color: var(--bg-blue);
+  background-color: darkcyan;
+}
+.second-p{
+    color: darkcyan;
+  background-color:  var(--bg-blue);
+}
+
+.third-p{
+   color: var(--dgolden);
+  background-color: var(--kk);
+}
+
+.fourth-p{
+    color: var(--kk);
+  background-color: var(--dgolden);
+}
+
+.fifth-p{
+    color:var(--fifth);
+  background-color: var(--dkhaki);
+}
+
+.six-p{
+    color: var(--dkhaki);
+  background-color:  var(--fifth);
+}
+
+.seven-p{
+    color: darkolivegreen;
+  background-color:  var(--dkhaki) ;
+}
+
+.first-i{
+  border-radius: var(--lshape);
+}
+
+.second-i{
+  border-radius:var(--lshape);
+}
+
+.third-i{
+  border-radius:var(--lshape);
+}
+.fourth-i{
+  border-radius: var(--oshape);
+}
+
+.fifth-i{
+  border-radius: var(--lshape) ;
+}
+
+.six-i{
+  border-radius:var(--oshape);
+}
+
+.seven-i{
+  border-radius: var(--oshape) ;
+}

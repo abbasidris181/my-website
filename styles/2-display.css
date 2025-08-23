@@ -1,0 +1,27 @@
+:root{
+  --heading: #9D5431;
+}
+.container{
+  width: 90%;
+  background-color: #519AC8;
+  margin: 0 auto;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
+
+h1{
+  color: var(--heading);
+}
+
+.row{
+  width:  100%;
+  height: auto;
+}
+
+.box{
+  width: 20%;
+ float: left;
+  margin: 2%;
+}
