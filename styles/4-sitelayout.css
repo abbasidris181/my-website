@@ -1,0 +1,135 @@
+body{
+  background-color: lightblue;
+}
+
+.container{
+  background-color: aqua;
+  height: 2000px;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.row-1{
+  background-color: aliceblue;
+  height: 150px;
+}
+.row-2{
+  background-color: antiquewhite;
+  height: 150px;
+}
+
+.row-3{
+  background-color: aquamarine;
+  height: 1500px;
+}
+
+.row-4{
+  background-color: azure;
+  height: 200px;
+}
+
+.side-1{
+  background-color: beige;
+  float: left;
+  height: 1500px;
+ width: 25%;
+}
+
+.side-2{
+  background-color: black;
+  height: 1500px;
+  float: left;
+  width: 50%;
+}
+
+.side-3{
+  background-color: blanchedalmond;
+  height: 1500px;
+  float: left;
+  width: 25%;
+}
+
+.col-1{
+  background-color: blue;
+  height: 750px;
+}
+
+.col-2{
+  background-color: blueviolet;
+  height: 750px;
+}
+
+.col-3{
+  background-color: brown;
+  height: 750px;
+  width: 50%;
+  float: left;
+}
+
+.col-4{
+  background-color: burlywood;
+  height: 750px;
+  width: 50%;
+  float: left;
+}
+
+.col-5{
+  background-color: cadetblue;
+  height: 250px;
+}
+
+.col-6{
+  background-color: chartreuse;
+  height: 250px;
+}
+
+.col-7{
+  background-color: chocolate;
+  height: 250px;
+}
+
+.col-8{
+  background-color: coral;
+  height: 500px;
+}
+.col-9{
+  background-color: cornflowerblue;
+  height: 500px;
+}
+.col-a{
+  background-color: cornsilk;
+  height: 500px;
+}
+
+.col-b{
+  background-color: rgb(243, 226, 230);
+  height: 500px;
+  float: left;
+  width: 50%;
+}
+
+.col-c{
+  background-color: cyan;
+   height: 500px;
+  float: left;
+  width: 50%;
+}
+
+.col-d{
+  background-color: darkblue;
+  height: 250px;
+}
+
+.col-f{
+  background-color: darkcyan;
+  height: 250px;
+  width: 50%;
+  float: left;
+}
+
+.col-g{
+  background-color: darkgreen;
+    height: 250px;
+  width: 50%;
+  float: left;
+}

@@ -1,0 +1,102 @@
+body{
+  background-color: aqua;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background-color: beige;
+  height: 1500px;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.div-1{
+  background-color: aquamarine;
+  height: 100px;
+  width: 100%;
+}
+
+.div-2{
+  background-color: lightblue;
+  height: 100px;
+}
+
+.div-3{
+  background-color: lightcoral;
+  height: 1000px;
+  
+}
+
+.div-4{
+  background-color: yellow;
+  height: 300px;
+}
+
+.side-1{
+  background-color: lightslategray;
+  height: 1000px;
+  float: left;
+  width: 25%;
+}
+
+
+.side-2{
+  background-color: blue;
+  height: 1000px;
+  float: left;
+    width: 25%;
+}
+
+
+.side-3{
+  background-color: red;
+  height: 1000px;
+  float: right;
+    width: 25%;
+}
+
+
+.side-4{
+  background-color: brown;
+  height: 1000px;
+  float: left;
+    width: 25%;
+}
+
+.row-1{
+  background-color: white;
+  height: 333px;
+}
+
+
+.row-2{
+  background-color: lightsalmon;
+  height: 333px;
+}
+
+
+.row-3{
+  background-color: lightblue;
+  height: 334px;
+}
+
+.row-4{
+  background-color: white;
+  height: 333px;
+}
+
+.row-5{
+  background-color: lightcoral;
+  height: 333px;
+}
+
+.row-6{
+  background-color: rgb(101, 35, 35);
+  height: 333px;
+}
+ img{
+  width: 100%;
+}
