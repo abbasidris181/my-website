@@ -1,0 +1,36 @@
+
+body{
+  background-color: antiquewhite;
+}
+
+img{
+  height:300px;
+}
+
+.container{
+  height: auto;
+  border: none;
+  background-color: brown;
+  display: flex;
+  flex-direction: row;
+}
+
+@media only screen and (max-width:700px)  {
+
+  .container{
+
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.row{
+  display: flex;
+}
+
+@media only screen and (max-width:700px){
+    .row{
+      display: flex;
+      flex-direction: column;
+    }
+}

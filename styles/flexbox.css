@@ -1,0 +1,27 @@
+ .container{
+  display: flex;
+  width: 85%;
+ }
+
+ img{
+  width: 300px;
+ }
+
+
+ .container-item{
+  display: flex;
+  /* flex-direction: column; */
+  /* flex-direction: column-reverse; */
+  /* flex-direction: row; */
+  flex-direction: row-reverse;
+ }
+
+ .container-warp{
+  display: flex;
+  flex-wrap: wrap-reverse;
+ }
+
+ .container-warp div{
+  width: 200px;
+  margin: 10px;
+ }

@@ -1,0 +1,15 @@
+ .heading-1{
+  text-shadow: 2px 4px yellow;
+ }
+
+ .heading-2{
+  text-shadow: 4px 6px darkgreen;
+ }
+
+ .heading-3{
+  text-shadow: 6px 8px 6px darkblue;
+ }
+
+.image-1{
+  box-shadow: 2px 4px green;
+}
